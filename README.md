@@ -4,4 +4,4 @@ We're using this repo to test how GitHub Actions might affect the security of Mo
 
 Any findings will be published in the normal places, and we'll probably delete this repo.
 
-- [ ] trying on my stock personal account
+- [ ] trying on my stock personal account (try 2)
